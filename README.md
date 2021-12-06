@@ -1,3 +1,3 @@
-# DA_resume
+# Meijie He_resume
 
-A collection of data science resume for Data 200 course
+A collection of the pdf file and R Markdown file of Meijie's resume for seeking 2021 Spring internship. 
