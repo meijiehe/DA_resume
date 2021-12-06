@@ -1,0 +1,177 @@
+---
+title: "Meijie He"
+author: Meijie He
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>Meijie.He@tufts.edu
+- <i class="fa fa-github"></i> [github.com/meijiehe/](https://github.com/meijiehe/DA_resume)
+- <i class="fa fa-phone"></i> +1 508-964-9238
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- Performing **data analysis**, with a focus on engineering and financial models
+
+- Experienced in **data communication** 
+
+- Financial Experience: **Asset management/Derivatives pricing/Risk management/Portfolio investment**
+
+- Computer Skills: **R/Python/Matlab/Stata/SQL/Excel** 
+
+- **Machine Learning** on cloud platforms (AWS)
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Meijie He {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2021 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2021--Current
+
+
+### Clark University
+
+MS in Finance
+
+Worcester, MA
+
+2019--2021
+
+
+### Sichuan Agricultural University
+
+B.A. in Economics
+
+Chengdu, China 
+
+2015--2019
+
+
+
+Research Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Part-time data analyst
+
+Apple Inc.
+
+Remotely
+
+Jan.2021
+
+- Developed research questions and conducted KPI design based on Airbnb public data
+- Provided visualization and analysis for instructors
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### DATA-200 Foundations of Data Analytics 
+
+Tufts University
+
+Medford, MA
+
+Dec.2021
+
+<!--::: concise-->
+- Deployed a project which research the relationship between listings price and review rating factors based on Airbnb-Boston data.
+- Iterated the regression models to validate hypothesis.
+<!--:::-->
+
+
+
+
+### Data-201A Intro to Python for Data Analytics
+
+Tufts University
+
+Medford, MA
+
+Oct.2021
+
+<!--::: concise-->
+- Evaluated how cutomers' characteristics influence their comsuming prefference.
+- Deployed questions by using python to visualize relationships.
+<!--:::-->
+
+
+
+
+### Investment Assistant
+
+Chongqing Zhongfu Innovation Equity Investment Fund Management Company
+
+Chongqing, China
+
+Jul.2018--Aug.2018
+
+<!--::: concise-->
+- Disposed with the data of company’s reported financial statements and stock from Wind.
+- Analyzed company’s performance in the market from the IPO.
+- Researched the development trend of the agricultural economy segment market for producing company’s investment advice in big data industry.
+
+<!--:::-->
+
+
+
+
+Selected Presentations {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+### DATA-201A Final Project
+
+Tufts University
+
+Medford, MA
+
+Oct.2021
+
+- Presented visualization for customers' comsuming prefference.
+- Summarized main results of the research. 
+
+
